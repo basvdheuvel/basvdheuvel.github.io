@@ -1,0 +1,32 @@
+# Maintainer: <kaptoxic _at_ yahoo _dot_ com >
+# Contributor: Nicolas Pouillard <nicolas.pouillard@gmail.com>
+
+pkgname=ott
+pkgver=0.30
+pkgrel=1
+pkgdesc="Ott, a tool for writing definitions of programming languages and calculi"
+arch=('i686' 'x86_64')
+url="http://www.cl.cam.ac.uk/~pes20/ott"
+license=('custom:BSD3')
+depends=('glibc' 'ocaml' 'texlive-core')
+source=("https://github.com/ott-lang/ott/archive/$pkgver.tar.gz"
+        "http://www.cl.cam.ac.uk/~pes20/ott/top2.pdf")
+
+md5sums=('SKIP'
+         'SKIP')
+
+build() {
+  cd "ott-$pkgver"
+  make
+}
+
+package() {
+  cd "ott-$pkgver"
+  install -D -m 755 bin/ott ${pkgdir}/usr/bin/ott
+  install -D -m 644 LICENCE ${pkgdir}/usr/share/licenses/ott/LICENCE
+  install -D -m 644 tex/ottlayout.sty \
+    ${pkgdir}/opt/texlive/texmf-local/tex/latex/$pkgname/ottlayout.sty
+  cd $srcdir
+  install -D -m 644 top2.pdf ${pkgdir}/usr/share/doc/ott/ott_manual.pdf
+}
+
