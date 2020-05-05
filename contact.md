@@ -10,5 +10,6 @@ E-mail
 
 Social
 : [ORCID](https://orcid.org/0000-0002-8264-7371)
+: [DBLP](https://dblp.uni-trier.de/pers/hd/h/Heuvel_0001:Bas_van_den)
 : [Github](https://github.com/basvdheuvel)
 : [Linkedin](https://www.linkedin.com/in/bas-van-den-heuvel-901281156/)
