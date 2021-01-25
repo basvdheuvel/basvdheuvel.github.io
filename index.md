@@ -8,6 +8,20 @@ Groningen](https://www.rug.nl/) (NL) for the VIDI project [Unifying Correctness
 for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
 [Jorge A. Pérez](https://www.jperez.nl/).
 
+<hr />
+
+<h3>Selected Publications</h3>
+
+* 2021: Draft with Jorge A. Pérez
+  <br />
+  [A Decentralized Analysis of Multiparty Protocols](https://arxiv.org/abs/2101.09038)
+
+* 2020: [PLACES 2020](http://places20.by.di.fc.ul.pt/) with Jorge A. Pérez
+  <br />
+  [Session Type Systems based on Linear Logic: Classical versus Intuitionistic](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?PLACES2020.1.pdf)
+  <br />
+  [Presentation]({{site.url}}{{site.baseurl}}/assets/static/types2020.mp4) at [TYPES 2020](https://types2020.di.unito.it/)
+
 {% for post in site.posts %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
