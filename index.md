@@ -20,7 +20,7 @@ for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
   <br />
   [Session Type Systems based on Linear Logic: Classical versus Intuitionistic](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?PLACES2020.1.pdf)
   <br />
-  [Presentation]({{site.url}}{{site.baseurl}}/assets/static/types2020.mp4) at [TYPES 2020](https://types2020.di.unito.it/)
+  [Presentation]({{site.lfs_prefix}}/assets/static/types2020.mp4) at [TYPES 2020](https://types2020.di.unito.it/)
 
 {% for post in site.posts %}
   <div id="post-short">

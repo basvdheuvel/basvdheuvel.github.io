@@ -17,11 +17,11 @@ permalink: /pubs/
   The event was cancelled due to the corona virus crisis.
   My slides and a recording of my presentation are available anyway:
   [slides]({{site.url}}{{site.baseurl}}/assets/static/types2020.pdf) /
-  [presentation]({{site.url}}{{site.baseurl}}/assets/static/types2020.mp4).
+  [presentation]({{site.lfs_prefix}}/assets/static/types2020.mp4).
 
 * 2020: [PLACES 2020](http://places20.by.di.fc.ul.pt/) with Jorge A. Pérez
   <br />
   [Session Type Systems based on Linear Logic: Classical versus Intuitionistic](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?PLACES2020.1.pdf) -
   [BibTeX]({{site.url}}{{site.baseurl}}/assets/static/bibtex/places2020.bib)
   <br />
-  The event was postponed due to the corona virus crisis.
+  The event was cancelled due to the corona virus crisis.
