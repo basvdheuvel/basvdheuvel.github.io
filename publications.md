@@ -4,6 +4,12 @@ title: Publications
 permalink: /pubs/
 ---
 
+* 2021: [AGERE 2021](https://2021.splashcon.org/home/agere-2021) with Jorge A. Pérez
+  <br />
+  [Towards Practical Protocol Verification via Minimal Orchestration in ACP](https://2021.splashcon.org/details/agere-2021-papers/1/Towards-Practical-Protocol-Verification-via-Minimal-Orchestration-in-ACP)
+  [(Extended Abstract)]({{site.url}}{{site.baseurl}}/assets/static/agere21.pdf) -
+  [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/agere2021.bib)
+
 * 2021: Draft with Jorge A. Pérez
   <br />
   [A Decentralized Analysis of Multiparty Protocols](https://arxiv.org/abs/2101.09038) -
