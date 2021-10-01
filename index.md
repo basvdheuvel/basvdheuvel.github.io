@@ -12,20 +12,37 @@ for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
 
 <h3>Selected Publications</h3>
 
-* 2021: [AGERE 2021](https://2021.splashcon.org/home/agere-2021) with Jorge A. Pérez
+* 2021: [AGERE 2021](https://2021.splashcon.org/home/agere-2021) with [Jorge A. Pérez](https://www.jperez.nl/)
   <br />
-  [Towards Practical Protocol Verification via Minimal Orchestration in ACP](https://2021.splashcon.org/details/agere-2021-papers/1/Towards-Practical-Protocol-Verification-via-Minimal-Orchestration-in-ACP)
-  [(Extended Abstract)]({{site.url}}{{site.baseurl}}/assets/static/agere21.pdf)
+  Towards Practical Protocol Verification via Minimal Orchestration in ACP
+  <br />
+  \[
+  [PDF (Extended Abstract)]({{site.url}}{{site.baseurl}}/assets/static/agere21.pdf)
+  \]
 
-* 2021: Draft with Jorge A. Pérez
+* 2021: [ICE 2021](https://www.discotec.org/2021/ice) with [Jorge A. Pérez](https://www.jperez.nl/)
   <br />
-  [A Decentralized Analysis of Multiparty Protocols](https://arxiv.org/abs/2101.09038)
+  Deadlock Freedom for Asynchronous and Cyclic Process Networks
+  <br />
+  \[
+  [PDF](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICE2021.3.pdf)
+  \]
 
-* 2020: [PLACES 2020](http://places20.by.di.fc.ul.pt/) with Jorge A. Pérez
+* 2021: Draft with [Jorge A. Pérez](https://www.jperez.nl/)
   <br />
-  [Session Type Systems based on Linear Logic: Classical versus Intuitionistic](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?PLACES2020.1.pdf)
+  A Decentralized Analysis of Multiparty Protocols
   <br />
-  [Presentation]({{site.lfs_prefix}}/assets/static/types2020.mp4) at [TYPES 2020](https://types2020.di.unito.it/)
+  \[
+  [PDF](https://arxiv.org/pdf/2101.09038)
+  \]
+
+* 2020: [PLACES 2020](http://places20.by.di.fc.ul.pt/) with [Jorge A. Pérez](https://www.jperez.nl/)
+  <br />
+  Session Type Systems based on Linear Logic: Classical versus Intuitionistic
+  <br />
+  \[
+  [PDF](https://arxiv.org/pdf/2004.01320v1)
+  \]
 
 {% for post in site.posts %}
   <div id="post-short">
