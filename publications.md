@@ -26,6 +26,10 @@ permalink: /pubs/
   [PDF](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICE2021.3.pdf)
   /
   [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/ice2021.bib)
+  /
+  [Presentation](https://www.youtube.com/watch?v=bQ5QE7nUetw)
+  /
+  [Slides]({{site.url}}{{site.baseurl}}/assets/static/ice21presentation.pdf)
   \]
 
 * 2021: Draft with [Jorge A. Pérez](https://www.jperez.nl/)
