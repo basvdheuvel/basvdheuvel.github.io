@@ -4,6 +4,18 @@ title: Publications
 permalink: /pubs/
 ---
 
+* 2021: [NWPT 2021](http://icetcs.ru.is/nwpt21/) with [Jorge A. Pérez](https://www.jperez.nl/)
+  <br />
+  A Decentralized Analysis of Multiparty Protocols
+  <br />
+  \[
+  [PDF (Extended Abstract)](http://icetcs.ru.is/nwpt21/abstracts/paper4.pdf)
+  /
+  [BibTeX]({{site.url}}{{site.baseurl}}/assets/static/bibtex/nwpt2021.bib)
+  /
+  [Slides]({{site.url}}{{site.baseurl}}/assets/static/nwpt21pres.pdf)
+  \]
+
 * 2021: [AGERE 2021](https://2021.splashcon.org/home/agere-2021) with [Jorge A. Pérez](https://www.jperez.nl/)
   <br />
   Towards Practical Protocol Verification via Minimal Orchestration in ACP
@@ -13,7 +25,11 @@ permalink: /pubs/
   /
   [PDF (Extended Abstract)]({{site.url}}{{site.baseurl}}/assets/static/agere21.pdf)
   /
-  [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/agere2021.bib)
+  [BibTeX]({{site.url}}{{site.baseurl}}/assets/static/bibtex/agere2021.bib)
+  /
+  [Presentation](https://youtu.be/jX0aH8-z4dk)
+  /
+  [Slides]({{site.url}}{{site.baseurl}}/assets/static/agere21pres.pdf)
   \]
 
 * 2021: [ICE 2021](https://www.discotec.org/2021/ice) with [Jorge A. Pérez](https://www.jperez.nl/)
@@ -25,7 +41,7 @@ permalink: /pubs/
   /
   [PDF](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICE2021.3.pdf)
   /
-  [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/ice2021.bib)
+  [BibTeX]({{site.url}}{{site.baseurl}}/assets/static/bibtex/ice2021.bib)
   /
   [Presentation](https://www.youtube.com/watch?v=bQ5QE7nUetw)
   /
