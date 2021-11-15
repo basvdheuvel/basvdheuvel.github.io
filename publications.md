@@ -13,6 +13,8 @@ permalink: /pubs/
   /
   [BibTeX]({{site.url}}{{site.baseurl}}/assets/static/bibtex/nwpt2021.bib)
   /
+  [Presentation](https://www.youtube.com/watch?v=Ij5Cwlfot4Y)
+  /
   [Slides]({{site.url}}{{site.baseurl}}/assets/static/nwpt21pres.pdf)
   \]
 
