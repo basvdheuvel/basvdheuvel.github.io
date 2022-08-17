@@ -12,6 +12,18 @@ for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
 
 <h3>Selected Publications</h3>
 
+<h4>Journals</h4>
+
+* 2022: [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
+    <br />
+    A decentralized analysis of multiparty protocols
+    <br />
+    \[
+    [PDF](https://www.sciencedirect.com/science/article/pii/S0167642322000739/pdfft?md5=a96ed53547393c15d62a057ca3f1c711&pid=1-s2.0-S0167642322000739-main.pdf)
+    \]
+
+<h4>Workshops</h4>
+
 * 2021: [AGERE 2021](https://2021.splashcon.org/home/agere-2021) with [Jorge A. Pérez](https://www.jperez.nl/)
   <br />
   Towards Practical Protocol Verification via Minimal Orchestration in ACP
@@ -26,14 +38,6 @@ for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
   <br />
   \[
   [PDF](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICE2021.3.pdf)
-  \]
-
-* 2021: Draft with [Jorge A. Pérez](https://www.jperez.nl/)
-  <br />
-  A Decentralized Analysis of Multiparty Protocols
-  <br />
-  \[
-  [PDF](https://arxiv.org/pdf/2101.09038)
   \]
 
 * 2020: [PLACES 2020](http://places20.by.di.fc.ul.pt/) with [Jorge A. Pérez](https://www.jperez.nl/)

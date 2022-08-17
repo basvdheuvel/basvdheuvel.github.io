@@ -4,6 +4,22 @@ title: Publications
 permalink: /pubs/
 ---
 
+<h3>Journals</h3>
+
+* 2022: [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
+    <br />
+    A decentralized analysis of multiparty protocols
+    <br />
+    \[
+    [DOI](https://doi.org/10.1016/j.scico.2022.102840)
+    /
+    [PDF](https://www.sciencedirect.com/science/article/pii/S0167642322000739/pdfft?md5=a96ed53547393c15d62a057ca3f1c711&pid=1-s2.0-S0167642322000739-main.pdf)
+    /
+    [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/scico2022.bib)
+    \]
+
+<h3>Workshops</h3>
+
 * 2021: [NWPT 2021](http://icetcs.ru.is/nwpt21/) with [Jorge A. Pérez](https://www.jperez.nl/)
   <br />
   A Decentralized Analysis of Multiparty Protocols
@@ -43,23 +59,13 @@ permalink: /pubs/
   /
   [PDF](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICE2021.3.pdf)
   /
+  [Extended Version (ArXiv)](https://arxiv.org/abs/2111.13091)
+  /
   [BibTeX]({{site.url}}{{site.baseurl}}/assets/static/bibtex/ice2021.bib)
   /
   [Presentation](https://www.youtube.com/watch?v=bQ5QE7nUetw)
   /
   [Slides]({{site.url}}{{site.baseurl}}/assets/static/ice21presentation.pdf)
-  \]
-
-* 2021: Draft with [Jorge A. Pérez](https://www.jperez.nl/)
-  <br />
-  A Decentralized Analysis of Multiparty Protocols
-  <br />
-  \[
-  [URL](https://arxiv.org/abs/2101.09038)
-  /
-  [PDF](https://arxiv.org/pdf/2101.09038)
-  /
-  [BibTeX]({{site.url}}{{site.baseurl}}/assets/static/bibtex/draft2021.bib)
   \]
 
 * 2020: [TYPES 2020](https://types2020.di.unito.it/) with [Jorge A. Pérez](https://www.jperez.nl/)
