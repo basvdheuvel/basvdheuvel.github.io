@@ -62,8 +62,18 @@ a:hover	{
 	margin: 20px auto 20px auto;
 }
 
+#logo h1 {
+    width: max-content;
+    margin: 0 auto;
+    position: relative;
+}
+
 #logo img {
-	max-width: 50%;
+    position:absolute;
+    height:100px;
+    left:-20px;
+    top:-10px;
+    transform: translateX(-100%);
 }
 
 #content-left a:link, #content-left a:visited	{
