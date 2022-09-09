@@ -33,3 +33,5 @@ gem 'warning'
 
 # To replace Ruby Sass
 gem 'sassc'
+
+gem "webrick", "~> 1.7"

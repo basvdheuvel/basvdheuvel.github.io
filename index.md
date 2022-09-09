@@ -8,6 +8,8 @@ Groningen](https://www.rug.nl/) (NL) for the VIDI project [Unifying Correctness
 for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
 [Jorge A. Pérez](https://www.jperez.nl/).
 
+Currently, I am visiting with [Stephanie Balzer](https://www.cs.cmu.edu/~balzers/) at [Carnegie Mellon University](https://www.cmu.edu/) in Pittsburgh, Pennsylvania, USA.
+
 <hr />
 
 <h3>Selected Publications</h3>
@@ -23,6 +25,14 @@ for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
     \]
 
 <h4>Workshops</h4>
+
+* 2022: [EXPRESS/SOS 2022](https://express-sos2022.github.io/) with  [Jorge A. Pérez](https://www.jperez.nl/)
+  <br />
+  Asynchronous Functional Sessions: Cyclic and Concurrent
+  <br />
+  \[
+  [PDF](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?EXPSOS22.5.pdf)
+  \]
 
 * 2021: [AGERE 2021](https://2021.splashcon.org/home/agere-2021) with [Jorge A. Pérez](https://www.jperez.nl/)
   <br />

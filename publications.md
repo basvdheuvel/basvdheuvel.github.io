@@ -20,6 +20,20 @@ permalink: /pubs/
 
 <h3>Workshops</h3>
 
+* 2022: [EXPRESS/SOS 2022](https://express-sos2022.github.io/) with  [Jorge A. Pérez](https://www.jperez.nl/)
+  <br />
+  Asynchronous Functional Sessions: Cyclic and Concurrent
+  <br />
+  \[
+  [DOI](http://dx.doi.org/10.4204/EPTCS.368.5)
+  /
+  [PDF](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?EXPSOS22.5.pdf)
+  /
+  [Extended Version (ArXiv)](https://arxiv.org/abs/2208.07644)
+  /
+  [BibTeX]({{site.url}}{{site.baseurl}}/assets/static/bibtex/express2022.bib)
+  \]
+
 * 2021: [NWPT 2021](http://icetcs.ru.is/nwpt21/) with [Jorge A. Pérez](https://www.jperez.nl/)
   <br />
   A Decentralized Analysis of Multiparty Protocols
