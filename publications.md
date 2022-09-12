@@ -32,6 +32,8 @@ permalink: /pubs/
   [Extended Version (ArXiv)](https://arxiv.org/abs/2208.07644)
   /
   [BibTeX]({{site.url}}{{site.baseurl}}/assets/static/bibtex/express2022.bib)
+  /
+  [Slides]({{site.url}}{{site.baseurl}}/assets/static/express22_handout.pdf)
   \]
 
 * 2021: [NWPT 2021](http://icetcs.ru.is/nwpt21/) with [Jorge A. Pérez](https://www.jperez.nl/)
