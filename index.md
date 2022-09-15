@@ -24,6 +24,15 @@ Currently, I am visiting with [Stephanie Balzer](https://www.cs.cmu.edu/~balzers
     [PDF](https://www.sciencedirect.com/science/article/pii/S0167642322000739/pdfft?md5=a96ed53547393c15d62a057ca3f1c711&pid=1-s2.0-S0167642322000739-main.pdf)
     \]
 
+<h4>Conferences</h4>
+* 2022: [OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla) with [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), [Dan Frumin](https://groupoid.moe/) and [Jorge A. Pérez](https://www.jperez.nl/)
+    <br />
+    A Bunch of Sessions: A Propositions-as-Sessions Interpretation of Bunched Implications in Channel-Based Concurrency
+    <br />
+    \[
+    [PDF (preprint)](https://arxiv.org/pdf/2209.05421)
+    \]
+
 <h4>Workshops</h4>
 
 * 2022: [EXPRESS/SOS 2022](https://express-sos2022.github.io/) with  [Jorge A. Pérez](https://www.jperez.nl/)
