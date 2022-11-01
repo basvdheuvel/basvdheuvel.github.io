@@ -24,7 +24,11 @@ permalink: /pubs/
     A Bunch of Sessions: A Propositions-as-Sessions Interpretation of Bunched Implications in Channel-Based Concurrency
     <br />
     \[
-    [Preprint (ArXiv)](https://arxiv.org/abs/2209.05421)
+    [DOI](https://doi.org/10.1145/3563318)
+    /
+    [PDF](https://dl.acm.org/doi/pdf/10.1145/3563318)
+    /
+    [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/oopsla2022.bib)
     \]
 
 <h3>Workshops</h3>

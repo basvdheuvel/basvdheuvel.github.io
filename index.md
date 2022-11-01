@@ -30,7 +30,7 @@ Currently, I am visiting with [Stephanie Balzer](https://www.cs.cmu.edu/~balzers
     A Bunch of Sessions: A Propositions-as-Sessions Interpretation of Bunched Implications in Channel-Based Concurrency
     <br />
     \[
-    [PDF (preprint)](https://arxiv.org/pdf/2209.05421)
+    [PDF](https://dl.acm.org/doi/pdf/10.1145/3563318)
     \]
 
 <h4>Workshops</h4>
