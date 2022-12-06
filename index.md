@@ -8,8 +8,6 @@ Groningen](https://www.rug.nl/) (NL) for the VIDI project [Unifying Correctness
 for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
 [Jorge A. Pérez](https://www.jperez.nl/).
 
-Currently, I am visiting with [Stephanie Balzer](https://www.cs.cmu.edu/~balzers/) at [Carnegie Mellon University](https://www.cmu.edu/) in Pittsburgh, Pennsylvania, USA.
-
 <hr />
 
 <h3>Selected Publications</h3>
