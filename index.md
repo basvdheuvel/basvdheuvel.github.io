@@ -2,11 +2,13 @@
 layout: default
 ---
 
-Since October 2019 I am a PhD student at the [Bernoulli
+I am a PhD student at the [Bernoulli
 Institute](https://www.rug.nl/research/bernoulli/), [University of
 Groningen](https://www.rug.nl/) (NL) for the VIDI project [Unifying Correctness
 for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
-[Jorge A. Pérez](https://www.jperez.nl/).
+[Jorge A. Pérez](https://www.jperez.nl/), since October 2019.
+The end of my PhD is nearing and I am interested in finding a Postdoc position.
+You can find my CV [here]({{site.url}}{{site.baseurl}}/assets/static/CV_Bas_van_den_Heuvel.pdf).
 
 <hr />
 
