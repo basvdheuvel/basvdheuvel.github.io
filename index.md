@@ -29,7 +29,7 @@ for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
     Monitoring Blackbox Implementations of Multiparty Session Protocols
     <br />
     \[
-    [DOI](https://doi.org/10.1007/978-3-031-44267-4_4)
+    [PDF (extended version)](https://arxiv.org/pdf/2306.04204.pdf)
     \]
 
 * 2022: [OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla) with [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), [Dan Frumin](https://groupoid.moe/) and [Jorge A. Pérez](https://www.jperez.nl/)

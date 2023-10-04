@@ -27,7 +27,7 @@ permalink: /pubs/
     \[
     [DOI](https://doi.org/10.1007/978-3-031-44267-4_4)
     /
-    PDF
+    [PDF (extended version)](https://arxiv.org/pdf/2306.04204.pdf)
     /
     [BibTex]({{site.url}}{site.baseurl}}/assets/static/bibtex/rv2023.bib)
     \]
