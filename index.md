@@ -26,6 +26,14 @@ for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
 
 <h4>Conferences</h4>
 
+* 2023: [APLAS 2023](https://conf.researchr.org/home/aplas-2023) with Joseph W. N. Paulus, [Daniele Nantes-Sobrinho](https://vtss.doc.ic.ac.uk/people/nantes.html) and [Jorge A. Pérez](https://www.jperez.nl/)
+    <br />
+    Typed Non-determinism in Functional and Concurrent Calculi
+    <br />
+    \[
+    [PDF (preprint/extended version)](https://arxiv.org/pdf/2205.00680.pdf)
+    \]
+
 * 2023: [RV 2023](https://rv23.csd.auth.gr/) with [Jorge A. Pérez](https://www.jperez.nl/) and Rares A. Dobre
     <br />
     Monitoring Blackbox Implementations of Multiparty Session Protocols
