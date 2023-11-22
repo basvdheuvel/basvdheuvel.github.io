@@ -25,7 +25,11 @@ permalink: /pubs/
     Typed Non-determinism in Functional and Concurrent Calculi
     <br />
     \[
-    [PDF (preprint/extended version)](https://arxiv.org/pdf/2205.00680.pdf)
+    [DOI](https://doi.org/10.1007/978-981-99-8311-7_6)
+    /
+    [PDF (extended version)](https://arxiv.org/pdf/2205.00680.pdf)
+    /
+    [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/aplas2023.bib)
     \]
 
 * 2023: [RV 2023](https://rv23.csd.auth.gr/) with [Jorge A. Pérez](https://www.jperez.nl/) and Rares A. Dobre
@@ -37,7 +41,7 @@ permalink: /pubs/
     /
     [PDF (extended version)](https://arxiv.org/pdf/2306.04204.pdf)
     /
-    [BibTex]({{site.url}}{site.baseurl}}/assets/static/bibtex/rv2023.bib)
+    [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/rv2023.bib)
     \]
 
 * 2022: [OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla) with [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), [Dan Frumin](https://groupoid.moe/) and [Jorge A. Pérez](https://www.jperez.nl/)
