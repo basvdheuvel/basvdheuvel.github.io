@@ -14,7 +14,7 @@ Institute](https://www.rug.nl/research/bernoulli/), [University of
 Groningen](https://www.rug.nl/) (NL) for the VIDI project [Unifying Correctness
 for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
 [Jorge A. Pérez](https://www.jperez.nl/).
-My dissertation is currently under assessment.
+I will defend my thesis on 2024-04-02 12:45, at University of Groningen's [Academy Building](https://maps.app.goo.gl/mZbXtoFdBy1Lcb737); you can find an extended preprint of my dissertation on [ArXiv](https://arxiv.org/abs/2402.09595).
 
 I have obtained my MSc in Logic at the [ILLC](https://www.illc.uva.nl/),
 [University of Amsterdam](https://www.uva.nl/) (thesis under supervision of
