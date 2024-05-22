@@ -9,7 +9,7 @@ Institute](https://www.rug.nl/research/bernoulli/), [University of
 Groningen](https://www.rug.nl/) (NL) for the VIDI project [Unifying Correctness
 for Communicating Software](https://www.jperez.nl/vidi) under the supervision of
 [Jorge A. Pérez](https://www.jperez.nl/), from October 2019 until September 2023.
-I will defend my thesis on 2024-04-02 12:45, at University of Groningen's [Academy Building](https://maps.app.goo.gl/mZbXtoFdBy1Lcb737); you can find an extended preprint of my dissertation on [ArXiv](https://arxiv.org/abs/2402.09595).
+In April 2024 I successfully defended my dissertation, titled "Correctly Communicating Software: Distributed, Asynchronous, and Beyond" and available [here](https://research.rug.nl/en/publications/correctly-communicating-software-distributed-asynchronous-and-bey).
 
 <hr />
 
