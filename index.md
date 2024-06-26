@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I'm a postdoctoral researcher at [Karlsruhe University of Applied Sciences](https://h-ka.de) (DE) and the [University of Freiburg](https://www.uni-freiburg.de/) (DE; my office is here), since November 2023.
+I'm a postdoctoral researcher at [HKA Karlsruhe](https://h-ka.de) (DE) and the [University of Freiburg](https://www.uni-freiburg.de/) (DE; my office is here), since November 2023.
 Together with [Peter Thiemann](http://www2.informatik.uni-freiburg.de/~thiemann/) and Martin Sulzmann, I work on the trace-based analysis of data races in concurrent programs.
 
 I did my PhD at the [Bernoulli
@@ -13,9 +13,9 @@ In April 2024 I successfully defended my dissertation, titled "Correctly Communi
 
 <hr />
 
-<h3>Selected Publications</h3>
+### Selected Publications
 
-<h4>Journals</h4>
+#### Journals
 
 * 2022: [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
     <br />
@@ -25,9 +25,17 @@ In April 2024 I successfully defended my dissertation, titled "Correctly Communi
     [PDF](https://www.sciencedirect.com/science/article/pii/S0167642322000739/pdfft?md5=a96ed53547393c15d62a057ca3f1c711&pid=1-s2.0-S0167642322000739-main.pdf)
     \]
 
-<h4>Conferences</h4>
+#### Conferences
 
-* 2023: [APLAS 2023](https://conf.researchr.org/home/aplas-2023) with Joseph W. N. Paulus, [Daniele Nantes-Sobrinho](https://vtss.doc.ic.ac.uk/people/nantes.html) and [Jorge A. Pérez](https://www.jperez.nl/)
+* 2024: [MFPS](https://oxford24.github.io/) with [Daniele Nantes-Sobrinho](https://vtss.doc.ic.ac.uk/people/nantes.html), Joseph W. N. Paulus and [Jorge A. Pérez](https://www.jperez.nl/)
+    <br />
+    Typed Non-determinism in Concurrent Calculi: The Eager Way
+    <br />
+    \[
+    [PDF (preprint)](https://oxford24.github.io/assets/mfps-papers/MFPS24-9.pdf)
+    \]
+
+* 2023: [APLAS](https://conf.researchr.org/home/aplas-2023) with Joseph W. N. Paulus, [Daniele Nantes-Sobrinho](https://vtss.doc.ic.ac.uk/people/nantes.html) and [Jorge A. Pérez](https://www.jperez.nl/)
     <br />
     Typed Non-determinism in Functional and Concurrent Calculi
     <br />
@@ -35,7 +43,7 @@ In April 2024 I successfully defended my dissertation, titled "Correctly Communi
     [PDF (extended version)](https://arxiv.org/pdf/2205.00680.pdf)
     \]
 
-* 2023: [RV 2023](https://rv23.csd.auth.gr/) with [Jorge A. Pérez](https://www.jperez.nl/) and Rares A. Dobre
+* 2023: [RV](https://rv23.csd.auth.gr/) with [Jorge A. Pérez](https://www.jperez.nl/) and Rares A. Dobre
     <br />
     Monitoring Blackbox Implementations of Multiparty Session Protocols
     <br />
@@ -43,7 +51,7 @@ In April 2024 I successfully defended my dissertation, titled "Correctly Communi
     [PDF (extended version)](https://arxiv.org/pdf/2306.04204.pdf)
     \]
 
-* 2022: [OOPSLA 2022](https://2022.splashcon.org/track/splash-2022-oopsla) with [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), [Dan Frumin](https://groupoid.moe/) and [Jorge A. Pérez](https://www.jperez.nl/)
+* 2022: [OOPSLA](https://2022.splashcon.org/track/splash-2022-oopsla) with [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), [Dan Frumin](https://groupoid.moe/) and [Jorge A. Pérez](https://www.jperez.nl/)
     <br />
     A Bunch of Sessions: A Propositions-as-Sessions Interpretation of Bunched Implications in Channel-Based Concurrency
     <br />
@@ -51,9 +59,9 @@ In April 2024 I successfully defended my dissertation, titled "Correctly Communi
     [PDF](https://dl.acm.org/doi/pdf/10.1145/3563318)
     \]
 
-<h4>Workshops</h4>
+#### Workshops
 
-* 2022: [EXPRESS/SOS 2022](https://express-sos2022.github.io/) with  [Jorge A. Pérez](https://www.jperez.nl/)
+* 2022: [EXPRESS/SOS](https://express-sos2022.github.io/) with  [Jorge A. Pérez](https://www.jperez.nl/)
   <br />
   Asynchronous Functional Sessions: Cyclic and Concurrent
   <br />
@@ -61,15 +69,7 @@ In April 2024 I successfully defended my dissertation, titled "Correctly Communi
   [PDF](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?EXPSOS22.5.pdf)
   \]
 
-* 2021: [AGERE 2021](https://2021.splashcon.org/home/agere-2021) with [Jorge A. Pérez](https://www.jperez.nl/)
-  <br />
-  Towards Practical Protocol Verification via Minimal Orchestration in ACP
-  <br />
-  \[
-  [PDF (Extended Abstract)]({{site.url}}{{site.baseurl}}/assets/static/agere21.pdf)
-  \]
-
-* 2021: [ICE 2021](https://www.discotec.org/2021/ice) with [Jorge A. Pérez](https://www.jperez.nl/)
+* 2021: [ICE](https://www.discotec.org/2021/ice) with [Jorge A. Pérez](https://www.jperez.nl/)
   <br />
   Deadlock Freedom for Asynchronous and Cyclic Process Networks
   <br />
@@ -77,13 +77,18 @@ In April 2024 I successfully defended my dissertation, titled "Correctly Communi
   [PDF](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICE2021.3.pdf)
   \]
 
-* 2020: [PLACES 2020](http://places20.by.di.fc.ul.pt/) with [Jorge A. Pérez](https://www.jperez.nl/)
+* 2020: [PLACES](http://places20.by.di.fc.ul.pt/) with [Jorge A. Pérez](https://www.jperez.nl/)
   <br />
   Session Type Systems based on Linear Logic: Classical versus Intuitionistic
   <br />
   \[
   [PDF](https://arxiv.org/pdf/2004.01320v1)
   \]
+  
+### Academic Activity
+
+* 2024: [ICE](https://www.discotec.org/2024/ice) program committee member, *awarded best program committee member*
+* 2024: [FORTE](https://www.discotec.org/2024/forte) artefact evaluation committee member
 
 {% for post in site.posts %}
   <div id="post-short">
