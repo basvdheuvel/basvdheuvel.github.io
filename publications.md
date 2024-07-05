@@ -20,6 +20,14 @@ permalink: /pubs/
 
 ### Conferences
 
+* 2024: [ECOOP](https://conf.researchr.org/home/issta-ecoop-2024) with [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/) and [Stephanie Balzer](https://www.cs.cmu.edu/~balzers/)
+    <br />
+    Information Flow Control in Cyclic Process Networks
+    <br />
+    \[
+    [PDF (extended version)](https://arxiv.org/pdf/2407.02304)
+    \]
+
 * 2024: [MFPS](https://oxford24.github.io/) with [Daniele Nantes-Sobrinho](https://vtss.doc.ic.ac.uk/people/nantes.html), Joseph W. N. Paulus and [Jorge A. Pérez](https://www.jperez.nl/)
     <br />
     Typed Non-determinism in Concurrent Calculi: The Eager Way
