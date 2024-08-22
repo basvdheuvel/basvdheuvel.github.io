@@ -6,7 +6,25 @@ permalink: /pubs/
 
 ### Journals
 
-* 2022: [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
+* 2024 (to appear): [Logical Methods in Computer Science (LMCS)](https://lmcs.episciences.org/) with [Jorge A. Pérez](https://www.jperez.nl/)
+    <br />
+    Asynchronous Session-Based Concurrency: Deadlock-freedom in Cyclic Process Networks
+    <br />
+    \[
+    [PDF (preprint)](https://arxiv.org/pdf/2111.13091)
+    \]
+
+<!--
+* 2024 (to appear): [Journal of Logical and Algebraic Methods in Programming (JLAMP)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
+    <br />
+    Comparing Session Type Systems derived from Linear Logic
+    <br />
+    \[
+    [PDF (preprint)](https://arxiv.org/pdf/2401.14763)
+    \]
+-->
+
+* 2022: [Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
     <br />
     A decentralized analysis of multiparty protocols
     <br />
