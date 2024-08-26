@@ -25,7 +25,7 @@ In April 2024 I successfully defended my dissertation, titled "Correctly Communi
     [PDF (preprint)](https://arxiv.org/pdf/2111.13091)
     \]
 
-* 2024 (to appear): [Journal of Logical and Algebraic Methods in Programming (JLAMP)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
+* 2024: [Journal of Logical and Algebraic Methods in Programming (JLAMP)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
     <br />
     Comparing Session Type Systems derived from Linear Logic
     <br />
