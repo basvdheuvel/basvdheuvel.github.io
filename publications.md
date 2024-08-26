@@ -14,7 +14,7 @@ permalink: /pubs/
     [PDF (preprint)](https://arxiv.org/pdf/2111.13091)
     \]
 
-* 2024 (to appear): [Journal of Logical and Algebraic Methods in Programming (JLAMP)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
+* 2024: [Journal of Logical and Algebraic Methods in Programming (JLAMP)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
     <br />
     Comparing Session Type Systems derived from Linear Logic
     <br />
@@ -24,6 +24,8 @@ permalink: /pubs/
     [PDF (pre-proof)](https://www.sciencedirect.com/science/article/pii/S2352220824000580/pdfft?md5=294ab7a9dfc6c75e24cca0d439232106&pid=1-s2.0-S2352220824000580-main.pdf)
     /
     [PDF (preprint)](https://arxiv.org/pdf/2401.14763)
+    /
+    [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/jlamp2024.bib)
     \]
 
 * 2022: [Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
