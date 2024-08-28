@@ -23,8 +23,6 @@ permalink: /pubs/
     /
     [PDF](https://www.sciencedirect.com/science/article/pii/S2352220824000580/pdfft?md5=294ab7a9dfc6c75e24cca0d439232106&pid=1-s2.0-S2352220824000580-main.pdf)
     /
-    [PDF (preprint)](https://arxiv.org/pdf/2401.14763)
-    /
     [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/jlamp2024.bib)
     \]
 

@@ -30,7 +30,7 @@ In April 2024 I successfully defended my dissertation, titled "Correctly Communi
     Comparing Session Type Systems derived from Linear Logic
     <br />
     \[
-    [PDF (preprint)](https://arxiv.org/pdf/2401.14763)
+    [PDF](https://www.sciencedirect.com/science/article/pii/S2352220824000580/pdfft?md5=294ab7a9dfc6c75e24cca0d439232106&pid=1-s2.0-S2352220824000580-main.pdf)
     \]
 
 * 2022: [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
