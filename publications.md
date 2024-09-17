@@ -45,7 +45,11 @@ permalink: /pubs/
     Information Flow Control in Cyclic Process Networks
     <br />
     \[
+    [DOI](https://doi.org/10.4230/LIPIcs.ECOOP.2024.40)
+    /
     [PDF (extended version)](https://arxiv.org/pdf/2407.02304)
+    /
+    [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/ecoop2024.bib)
     \]
 
 * 2024: [MFPS](https://oxford24.github.io/) with [Daniele Nantes-Sobrinho](https://vtss.doc.ic.ac.uk/people/nantes.html), Joseph W. N. Paulus and [Jorge A. Pérez](https://www.jperez.nl/)
