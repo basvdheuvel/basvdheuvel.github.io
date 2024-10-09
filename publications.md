@@ -6,12 +6,16 @@ permalink: /pubs/
 
 ### Journals
 
-* 2024 (to appear): [Logical Methods in Computer Science (LMCS)](https://lmcs.episciences.org/) with [Jorge A. Pérez](https://www.jperez.nl/)
+* 2024: [Logical Methods in Computer Science (LMCS)](https://lmcs.episciences.org/) with [Jorge A. Pérez](https://www.jperez.nl/)
     <br />
     Asynchronous Session-Based Concurrency: Deadlock-freedom in Cyclic Process Networks
     <br />
     \[
-    [PDF (preprint)](https://arxiv.org/pdf/2111.13091)
+    [DOI](https://doi.org/10.46298/lmcs-20(4:6)2024)
+    /
+    [PDF](https://lmcs.episciences.org/14412/pdf)
+    /
+    [BibTex]({{site.url}}{{site.baseurl}}/assets/static/bibtex/lmcs2024.bib)
     \]
 
 * 2024: [Journal of Logical and Algebraic Methods in Programming (JLAMP)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) with [Jorge A. Pérez](https://www.jperez.nl/)

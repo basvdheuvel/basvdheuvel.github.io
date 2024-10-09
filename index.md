@@ -17,12 +17,12 @@ In April 2024 I successfully defended my dissertation, titled "Correctly Communi
 
 #### Journals
 
-* 2024 (to appear): [Logical Methods in Computer Science (LMCS)](https://lmcs.episciences.org/) with [Jorge A. Pérez](https://www.jperez.nl/)
+* 2024: [Logical Methods in Computer Science (LMCS)](https://lmcs.episciences.org/) with [Jorge A. Pérez](https://www.jperez.nl/)
     <br />
     Asynchronous Session-Based Concurrency: Deadlock-freedom in Cyclic Process Networks
     <br />
     \[
-    [PDF (preprint)](https://arxiv.org/pdf/2111.13091)
+    [PDF](https://lmcs.episciences.org/14412/pdf)
     \]
 
 * 2024: [Journal of Logical and Algebraic Methods in Programming (JLAMP)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) with [Jorge A. Pérez](https://www.jperez.nl/)
