@@ -102,6 +102,18 @@ permalink: /pubs/
 
 ### Workshops
 
+* 2024: [ICE](https://www.discotec.org/2024/ice) (invited talk) with [Jorge A. Pérez](https://www.jperez.nl/)
+    <br />
+    A gentle overview of asynchronous session-based concurrency: Deadlock freedom by typing
+    <br />
+    \[
+    [DOI](https://doi.org/10.4204/EPTCS.414.1)
+    /
+    [PDF](https://arxiv.org/pdf/2412.08232v1)
+    /
+    [BibTeX]({{site.url}}{{site.baseurl}}/assets/static/bibtex/ice2024.bib)
+    ]
+
 * 2022: [EXPRESS/SOS](https://express-sos2022.github.io/) with [Jorge A. Pérez](https://www.jperez.nl/)
     <br />
     Asynchronous Functional Sessions: Cyclic and Concurrent

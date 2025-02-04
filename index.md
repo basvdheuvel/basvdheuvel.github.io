@@ -85,20 +85,20 @@ In April 2024 I successfully defended my dissertation, titled "Correctly Communi
 
 #### Workshops
 
+* 2024: [ICE](https://www.discotec.org/2024/ice) (invited talk) with [Jorge A. Pérez](https://www.jperez.nl/)
+    <br />
+    A gentle overview of asynchronous session-based concurrency: Deadlock freedom by typing
+    <br />
+    \[
+    [PDF](https://arxiv.org/pdf/2412.08232v1)
+    ]
+
 * 2022: [EXPRESS/SOS](https://express-sos2022.github.io/) with  [Jorge A. Pérez](https://www.jperez.nl/)
   <br />
   Asynchronous Functional Sessions: Cyclic and Concurrent
   <br />
   \[
   [PDF](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?EXPSOS22.5.pdf)
-  \]
-
-* 2021: [ICE](https://www.discotec.org/2021/ice) with [Jorge A. Pérez](https://www.jperez.nl/)
-  <br />
-  Deadlock Freedom for Asynchronous and Cyclic Process Networks
-  <br />
-  \[
-  [PDF](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICE2021.3.pdf)
   \]
 
 * 2020: [PLACES](http://places20.by.di.fc.ul.pt/) with [Jorge A. Pérez](https://www.jperez.nl/)
