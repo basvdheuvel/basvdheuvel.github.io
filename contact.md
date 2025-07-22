@@ -5,7 +5,6 @@ permalink: /contact/
 ---
 
 E-mail
-: vdheuvel /a/ informatik.uni-freiburg.de
 : vdheuvel.bas /a/ gmail.com
 
 Social
